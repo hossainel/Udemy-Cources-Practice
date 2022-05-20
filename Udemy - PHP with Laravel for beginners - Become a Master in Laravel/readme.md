@@ -14,10 +14,10 @@ $ sudo mv composer.phar /usr/local/bin/composer
 $ composer global require "laravel/installer"
 ### Step 5
 - Make New Projedt
-$ /home/ <username>/.config/composer/vendor/bin/laravel new <project_name>
+$ /home<username>/.config/composer/vendor/bin/laravel new <project_name>
 ### Step 6
 - Goto Project Directory
-$ cd /home/ <username>/ <project_name>
+$ cd /home<username><project_name>
 ### Step 7
 - Start Laravel Server
 $ /opt/lampp/bin/php artisan serve
